@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Natural Blues",
+  "base_artist": "Moby",
+  "createdAt": "2026-02-27T08:46:00.571346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Natural Blues",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/01_Natural_Blues_Moby.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Natural Blues",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/02_Natural_Blues_Moby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Natural Blues",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/03_Natural_Blues_Moby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Natural Blues (Reinier Zonneveld Homage Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/04_Natural_Blues_(Reinier_Zonneveld_Homage_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Natural Blues (Reinier Zonneveld's Homage Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/05_Natural_Blues_(Reinier_Zonneveld's_Homage_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Natural Blues (Victor Ruiz Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/06_Natural_Blues_(Victor_Ruiz_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Natural Blues (feat. Gregory Porter & Amythyst Kiah) [Reprise Version]",
+      "artist": "Moby feat. Gregory Porter & Amythyst Kiah",
+      "has_synced": false,
+      "path": "select/07_Natural_Blues_(feat._Gregory_Porter_&_Amythyst_Kiah)_[Reprise_Version]_Moby_feat._Gregory_Porter_&_Amythyst_Kiah.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Natural Blues (Perfecto remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/08_Natural_Blues_(Perfecto_remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Natural Blues - Reprise Version / Commentary",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/09_Natural_Blues_-_Reprise_Version___Commentary_Moby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Natural Blues",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/10_Natural_Blues_Moby.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Natural Blues - Katcha Remix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/11_Natural_Blues_-_Katcha_Remix_Moby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Natural Blues (Katcha Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/12_Natural_Blues_(Katcha_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Natural Blues",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/13_Natural_Blues_Moby.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Just Comes Natural",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/14_It_Just_Comes_Natural_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Just Comes Natural (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/15_It_Just_Comes_Natural_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Natural Disaster",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/16_Natural_Disaster_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Natural High (feat. Janie Frickie)",
+      "artist": "Merle Haggard feat. Janie Frickie",
+      "has_synced": false,
+      "path": "select/17_Natural_High_(feat._Janie_Frickie)_Merle_Haggard_feat._Janie_Frickie.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Natural High (Album Version)",
+      "artist": "Merle Haggard with Janie Frickie",
+      "has_synced": false,
+      "path": "select/18_Natural_High_(Album_Version)_Merle_Haggard_with_Janie_Frickie.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Natural Born Chillas",
+      "artist": "Beginner",
+      "has_synced": false,
+      "path": "select/19_Natural_Born_Chillas_Beginner.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Natural Born Chillas",
+      "artist": "Absolute Beginner",
+      "has_synced": false,
+      "path": "select/20_Natural_Born_Chillas_Absolute_Beginner.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Natural Child",
+      "artist": "Lætitia Sadier",
+      "has_synced": false,
+      "path": "select/21_Natural_Child_Lætitia_Sadier.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Nothing Natural",
+      "artist": "Lush",
+      "has_synced": true,
+      "path": "select/22_Nothing_Natural_Lush.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Natural",
+      "artist": "Okay",
+      "has_synced": true,
+      "path": "select/23_Natural_Okay.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Natural Animal",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/24_Natural_Animal_Echobelly.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Natural One (U.N.K.L.E. Remix)",
+      "artist": "The Folk Implosion",
+      "has_synced": false,
+      "path": "select/25_Natural_One_(U.N.K.L.E._Remix)_The_Folk_Implosion.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Natural One (U.N.K.L.E. Mix)",
+      "artist": "Folk Implosion",
+      "has_synced": false,
+      "path": "select/26_Natural_One_(U.N.K.L.E._Mix)_Folk_Implosion.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Natural Blues",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/pl_01_Natural_Blues_Moby.txt"
+    }
+  ]
+}
